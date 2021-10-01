@@ -754,8 +754,8 @@ input[type='checkbox'] {
 a.back-to-top {
 	position: fixed;
 	z-index: 999;
-	right: 12px;
-	bottom: 12px;
+	right: 85px;
+	bottom: 28px;
 	display: none;
 	width: 42px;
 	height: 42px;
