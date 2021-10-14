@@ -1103,3 +1103,14 @@ a:hover.back-to-top {
 	/* end of contact */
 }
 /* end of min-width 1200px */
+
+.app-btn {
+	background: #4c9e4e;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	border-radius: 3px;
+}
+
+.app-btn a {
+	color: #eee !important;
+}
